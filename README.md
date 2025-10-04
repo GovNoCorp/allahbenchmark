@@ -2,7 +2,7 @@
 AllahBencmark - лучший (бомбезный) бенчмарк из всех что есть! Даже лучше чем AnTuTu, и все остальные. Мы используем секретные передовые технологии, чтобы вы получили лучший результат в бенчмарке.
 
 # Как использовать
-1. Скачайте файл "allahantutu" отсюда: [вот сюда жмай далбаеб](https://zenusus.serv00.net/govno-files/allahantutu)
+1. Скачайте файл "allahantutu" из релизов: [вот сюда жмай далбаеб](https://github.com/GovNoCorp/allahbenchmark/releases)
 2. Нажмите "свойства" на файле allahantutu, включите пункт "исполняемый как программа" (ну хз как правильно на русском кароч там будет)
 <img width="336" height="441" alt="sosal" src="https://github.com/user-attachments/assets/16e86393-3eef-4eea-9d74-c06769511f02" />
 <br>4. Запустите программу, и начните тест!
